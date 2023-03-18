@@ -4,7 +4,7 @@ ClassiCube is a custom Minecraft Classic and ClassiCube client written in C that
 
 ![screenshot_n](http://i.imgur.com/FCiwl27.png)
 
-#### How to instal the Void version
+#### How to install the Void version
 
 1-wget https://github.com/johna23-lab/ClassiCube-for-void/releases/download/1.3.5/classicube-1.3.5_1.x86_64.xbps
 
